@@ -1,0 +1,7 @@
+vi gta.txt
+nano gta.txt
+clear
+
+
+:wq!
+
